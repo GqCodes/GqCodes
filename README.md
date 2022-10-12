@@ -2,7 +2,7 @@ Hi 👋 My name is Chris
 ======================  
 Front End Developer 
 ------------------
-I'm a frontend dev who loves making beautiful web applications.  
+I'm a front end dev who loves making beautiful web applications.  
 * 🌍  I'm based in Orlando, FL
 * ✉️  You can contact me at [gqcodes@gmail.com](mailto:gqcodes@gmail.com)
 
