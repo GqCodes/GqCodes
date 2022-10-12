@@ -1,6 +1,6 @@
 Hi 👋 My name is Chris 
 ======================  
-Frontend Developer 
+Front End Developer 
 ------------------
 I'm a frontend dev who loves making beautiful web applications.  
 * 🌍  I'm based in Orlando, FL
