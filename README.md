@@ -1,4 +1,4 @@
-Hi My name is Chris 
+Hi my name is Chris 
 ======================  
 HTML Email / Web Developer 
 ------------------
