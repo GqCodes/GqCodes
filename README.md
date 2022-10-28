@@ -2,7 +2,7 @@ Hi my name is Chris
 ======================  
 HTML Email / Web Developer 
 ------------------
-I'm a HTML Email / Web Dev who loves making beautiful web applications.  
+
 * 🌍  I'm based in Orlando, FL
 * ✉️  You can contact me at [gqcodes@gmail.com](mailto:gqcodes@gmail.com)
 
