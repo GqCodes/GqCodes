@@ -1,7 +1,7 @@
 Hi 👋 My name is Chris
 ======================
 
-Frontend Developer
+Frontend | HTML Email Developer
 ------------------
 
 Frontend developer specializing in HTML emails & responsive landing pages. Committed to continuous learning & expanding my skill set, getting 1% better everyday. Some of my skills consist of HTML, CSS, JavaScript & responsive web design.
