@@ -1,10 +1,10 @@
 Hi 👋 My name is Chris
 ======================
 
-Frontend | HTML Email Developer
+Web Developer | Email Specialist
 ------------------
 
-Frontend developer specializing in HTML emails & responsive landing pages. Committed to continuous learning & expanding my skill set, getting 1% better everyday. Some of my skills consist of HTML, CSS, JavaScript & responsive web design.
+Frontend developer specializing in HTML emails. Committed to continuous learning & expanding my skill set, getting 1% better everyday. Some of my skills consist of HTML, CSS, JavaScript & responsive web design.
 
 *   🌍  I'm based in Orlando, FL
 *   ✉️  You can contact me at [gqcodes@gmail.com](mailto:gqcodes@gmail.com)
