@@ -3,13 +3,25 @@
 Hi 👋 My name is Chris
 ======================
 
-Web Developer | Email Specialist
-------------------
-
-Frontend developer specializing in HTML emails. Committed to continuous learning & expanding my skill set, getting 1% better everyday. Some of my skills consist of HTML, CSS, JavaScript & responsive web design.
-
-*   🌍  I'm based in Orlando, FL
+I'm a Frontend Developer based in Orlando, FL. I specialize Web Developemnt & HTML Email Development. I initially learned to code for my prior professional trading career & ended up staying for the fun! I love turning creatives & designs into tangible assets with code. I'm committed to continuous learning & expanding my skill set, getting 1% better everyday!
 *   ✉️  You can contact me at [gqcodes@gmail.com](mailto:gqcodes@gmail.com)
+
+## Connect with me  
+
+<div align="center">
+<a href="https://twitter.com/GQCodez" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter />
+</a>
+<a href="https://github.com/GqCodes" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github />
+</a>
+<a href="https://www.linkedin.com/in/christopherfvargas/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin  />
+</a>  
+</div>  
+<br/>
+
+
 ### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
