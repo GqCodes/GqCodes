@@ -1,3 +1,5 @@
+![](https://i.ibb.co/jMs2Y63/cover.png)
+
 Hi 👋 My name is Chris
 ======================
 
