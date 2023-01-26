@@ -1,4 +1,4 @@
-![](https://i.ibb.co/jMs2Y63/cover.png)
+![](https://i.ibb.co/1X1XWRB/cover.png)
 
 Hi 👋 I'm Chris
 ======================
