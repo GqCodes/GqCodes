@@ -5,6 +5,7 @@ Hi 👋 I'm Chris
 
 I'm a Frontend Developer based in Orlando, FL. I specialize in Web Developemnt & HTML Email Development. I initially learned to code for my prior professional trading career & ended up staying for the fun! I love turning creatives & designs into tangible assets with code. I'm committed to continuous learning & expanding my skill set, getting 1% better everyday!
 *   ✉️  You can contact me at [gqcodes@gmail.com](mailto:gqcodes@gmail.com)
+*   See [my website](https://www.christophervargas.dev/) for more!
 
 ## Skills 
 <p align="center">
