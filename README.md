@@ -78,28 +78,28 @@ I'm a Frontend Developer based in Orlando, FL. I specialize in Web Developemnt &
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://gqcodes.github.io/Orlando_Magic_Promo_Email/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&"/>
   </a>
       </p>
-        <p><strong>Typescript, React, TaildwindCSS</strong> - Markdown-supported note taking app.</p>
+        <p><strong>Orlando Magic HTML Email</strong> - Highlights: Fully mobile responsive, fluid design pattern, HTML table tags, inline css, litmus tested, custom media queries.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Caesar Cipher Generator</h3>
+      <h3 align="center">Disney HTML Email</h3>
         <br />
-        <a target="_blank" href="https://cipher-caesar.netlify.app/">
-          <img src="images/caesar.gif" width="100%" alt="Caesar cipher generator"/>
+        <a target="_blank" href="https://gqcodes.github.io/disney_promotional_email/">
+          <img src="https://user-images.githubusercontent.com/106452102/215277157-1ef4c98c-bc11-41ca-8740-8b0e414d364c.png" width="100%" alt="Disney HTML Email"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/andreyanez/Caesar-cipher-generator" target="_blank">
+  <a href="https://github.com/GqCodes/disney_promotional_email" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://cipher-caesar.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  <a href="https://gqcodes.github.io/disney_promotional_email/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic"/>
   </a>
       </p>
-        <p><strong>Nuxt, Vue 3, TaildwindCSS</strong> - A small Nuxt app capable of transform text using the caesar cipher.</p>
+        <p><strong>Disney HTML Email</strong> - Highlights: Fully mobile responsive, hybrid design pattern, HTML table tags, inline css, litmus tested, custom media queries.</p>
     </td>
   </tr>
 </table>
