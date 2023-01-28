@@ -21,6 +21,88 @@ I'm a Frontend Developer based in Orlando, FL. I specialize in Web Developemnt &
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="36" />
 </p>
 
+<h1 align="center">My latest work</h1>
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Axon Investment Group</h3>
+        <br />
+        <a target="_blank" href="https://gqcodes.github.io/axon-landing-page/">
+            <img src="https://user-images.githubusercontent.com/106452102/215276013-8561d838-d0bc-4f86-909a-17099e69153f.png" width="100%" alt="Axon"/>
+        </a>
+        <br />
+        <p align="center">
+        
+
+  <a href="https://github.com/GqCodes/axon-landing-page" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://gqcodes.github.io/axon-landing-page/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Typescript, React, Node.js, Express, Tailwind</strong> - Visualize your spotify stats and discover your listening trends.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">HomeFound</h3>
+        <br />
+      <a target="_blank" href="http://homefound.vercel.app/">
+            <img src="images/homefound.JPG" width="100%"  alt="HomeFound"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/andreyanez/HomeFound" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="http://homefound.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Nuxt, Algolia, Stripe, TailwindCSS</strong> - Find and register places to live all over the world.</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Takenote</h3>
+      <br />
+        <a target="_blank" href="https://apptakenote.netlify.app/">
+          <img src="images/takenote.gif" width="100%" alt="Takenote"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/andreyanez/Takenote" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://apptakenote.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Typescript, React, TaildwindCSS</strong> - Markdown-supported note taking app.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Caesar Cipher Generator</h3>
+        <br />
+        <a target="_blank" href="https://cipher-caesar.netlify.app/">
+          <img src="images/caesar.gif" width="100%" alt="Caesar cipher generator"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/andreyanez/Caesar-cipher-generator" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://cipher-caesar.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Nuxt, Vue 3, TaildwindCSS</strong> - A small Nuxt app capable of transform text using the caesar cipher.</p>
+    </td>
+  </tr>
+</table>
+
 ## Connect with me  
 
 <div align="center">
