@@ -39,44 +39,45 @@ I'm a Frontend Developer based in Orlando, FL. I specialize in Web Developemnt &
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="https://gqcodes.github.io/axon-landing-page/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic"/>
   </a>
       </p>
-        <p><strong>Typescript, React, Node.js, Express, Tailwind</strong> - Visualize your spotify stats and discover your listening trends.</p>
+        <p><strong>HTML / CSS / JavaScript Landing Page</strong> - Highlights: Bem CSS, flexbox, grid, custom mobile menu, animations, swiper js, custom media queries.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">HomeFound</h3>
+      <h3 align="center">BevDent</h3>
         <br />
-      <a target="_blank" href="http://homefound.vercel.app/">
-            <img src="images/homefound.JPG" width="100%"  alt="HomeFound"/>
+      <a target="_blank" href="https://gqcodes.github.io/BevDent-WP/">
+            <img src="https://user-images.githubusercontent.com/106452102/215276256-1da3ba89-d139-4973-8dcc-f94c572ce0a9.png" width="100%"  alt="BevDent"/>
         </a>
         <br />
         <p align="center">
-          
-  <a href="https://github.com/andreyanez/HomeFound" target="_blank">
+
+  <a href="https://github.com/GqCodes/BevDent-WP" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="http://homefound.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  <a href="https://gqcodes.github.io/BevDent-WP/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic"/>
   </a>
       </p>
-        <p><strong>Nuxt, Algolia, Stripe, TailwindCSS</strong> - Find and register places to live all over the world.</p>
+        <p><strong>WordPress Landing Page </strong> - Highlights: Elementor build tool, parallax image effect, hover animations, contact form, social media links.
+</p>
     </td>
   </tr>
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Takenote</h3>
+      <h3 align="center">Orlando Magic HTML Email</h3>
       <br />
-        <a target="_blank" href="https://apptakenote.netlify.app/">
-          <img src="images/takenote.gif" width="100%" alt="Takenote"/>
+        <a target="_blank" href="https://gqcodes.github.io/Orlando_Magic_Promo_Email/">
+          <img src="https://user-images.githubusercontent.com/106452102/215276368-fedc098d-2abd-4a9b-a39f-e65784a0d32f.png" width="100%" alt="Orlando Magic HTML Email"/>         
         </a>
       <br />
         <p align="center">
-  <a href="https://github.com/andreyanez/Takenote" target="_blank">
+  <a href="https://github.com/GqCodes/Orlando_Magic_Promo_Email" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://apptakenote.netlify.app/" target="_blank">
+  <a href="https://gqcodes.github.io/Orlando_Magic_Promo_Email/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
