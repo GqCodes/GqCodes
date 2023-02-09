@@ -25,9 +25,8 @@ I'm a Frontend Developer based in Orlando, FL. I specialize in Web Developemnt &
 
 <h1 align="center">My latest work</h1>
 <table bordercolor="#66b2b2">
-  
   <tr>
-    <td width="50%" valign="top">
+  <td width="50%" valign="top">
       <h3 align="center">Axon Investment Group</h3>
         <br />
         <a target="_blank" href="https://gqcodes.github.io/axon-landing-page/">
@@ -47,6 +46,27 @@ I'm a Frontend Developer based in Orlando, FL. I specialize in Web Developemnt &
         <p><strong>HTML / CSS / JavaScript Landing Page</strong> - Highlights: Bem CSS, flexbox, grid, custom mobile menu, animations, swiper js, custom media queries.</p>
     </td>
     <td width="50%" valign="top">
+      <h3 align="center">Axon Investment Group</h3>
+        <br />
+        <a target="_blank" href="https://gqcodes.github.io/axon-landing-page/">
+            <img src="https://user-images.githubusercontent.com/106452102/215276013-8561d838-d0bc-4f86-909a-17099e69153f.png" width="100%" alt="Axon"/>
+        </a>
+        <br />
+        <p align="center">
+        
+
+  <a href="https://github.com/GqCodes/axon-landing-page" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://gqcodes.github.io/axon-landing-page/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic"/>
+  </a>
+      </p>
+        <p><strong>HTML / CSS / JavaScript Landing Page</strong> - Highlights: Bem CSS, flexbox, grid, custom mobile menu, animations, swiper js, custom media queries.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3 align="center">BevDent</h3>
         <br />
       <a target="_blank" href="https://gqcodes.github.io/BevDent-WP/">
@@ -65,6 +85,26 @@ I'm a Frontend Developer based in Orlando, FL. I specialize in Web Developemnt &
         <p><strong>WordPress Landing Page </strong> - Highlights: Elementor build tool, parallax image effect, hover animations, contact form, social media links.
 </p>
     </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Axon Investment Group</h3>
+        <br />
+        <a target="_blank" href="https://gqcodes.github.io/axon-landing-page/">
+            <img src="https://user-images.githubusercontent.com/106452102/215276013-8561d838-d0bc-4f86-909a-17099e69153f.png" width="100%" alt="Axon"/>
+        </a>
+        <br />
+        <p align="center">
+        
+
+  <a href="https://github.com/GqCodes/axon-landing-page" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://gqcodes.github.io/axon-landing-page/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic"/>
+  </a>
+      </p>
+        <p><strong>HTML / CSS / JavaScript Landing Page</strong> - Highlights: Bem CSS, flexbox, grid, custom mobile menu, animations, swiper js, custom media queries.</p>
+    </td>
+    
   </tr>
   
   <tr>
