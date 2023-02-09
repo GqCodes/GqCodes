@@ -27,14 +27,14 @@ I'm a Frontend Developer based in Orlando, FL. I specialize in Web Developemnt &
 <table bordercolor="#66b2b2">
   <tr>
   <td width="50%" valign="top">
-      <h3 align="center">Axon Investment Group</h3>
+      <h3 align="center">Day Trading Horror Stories</h3>
         <br />
-        <a target="_blank" href="https://gqcodes.github.io/axon-landing-page/">
-            <img src="https://user-images.githubusercontent.com/106452102/215276013-8561d838-d0bc-4f86-909a-17099e69153f.png" width="100%" alt="Axon"/>
+        <a target="_blank" href="https://daytradinghorrors.com">
+            <img src="https://user-images.githubusercontent.com/106452102/217944875-73923906-628d-4794-b575-6e185dc8e8f5.jpg" width="100%" alt="Axon"/>
         </a>
         <br />
         <p align="center">
-        
+
 
   <a href="https://github.com/GqCodes/axon-landing-page" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
