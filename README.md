@@ -86,23 +86,21 @@ I'm a Frontend Developer based in Orlando, FL. I specialize in Web Developemnt &
 </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Axon Investment Group</h3>
+      <h3 align="center">The New Yorker Newsletter Email</h3>
         <br />
         <a target="_blank" href="https://gqcodes.github.io/axon-landing-page/">
-            <img src="https://user-images.githubusercontent.com/106452102/215276013-8561d838-d0bc-4f86-909a-17099e69153f.png" width="100%" alt="Axon"/>
+            <img src="https://user-images.githubusercontent.com/106452102/217947114-6ac8675e-0a8b-49fd-82fd-83c8007ccb16.jpg" width="100%" alt="The New Yorker"/>
         </a>
         <br />
         <p align="center">
-        
-
-  <a href="https://github.com/GqCodes/axon-landing-page" target="_blank">
+  <a href="https://github.com/GqCodes/New_Yorker_Newletter_Email" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://gqcodes.github.io/axon-landing-page/" target="_blank">
+  <a href="https://gqcodes.github.io/New_Yorker_Newletter_Email/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic"/>
   </a>
       </p>
-        <p><strong>HTML / CSS / JavaScript Landing Page</strong> - Highlights: Bem CSS, flexbox, grid, custom mobile menu, animations, swiper js, custom media queries.</p>
+        <p><strong>Newsletter HTML Email - Highlights: Fully mobile responsive, hybrid design pattern, HTML table, tr, td tags, inline css, litmus tested, custom media queries.</p>
     </td>
     
   </tr>
