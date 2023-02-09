@@ -30,20 +30,20 @@ I'm a Frontend Developer based in Orlando, FL. I specialize in Web Developemnt &
       <h3 align="center">Day Trading Horror Stories</h3>
         <br />
         <a target="_blank" href="https://daytradinghorrors.com">
-            <img src="https://user-images.githubusercontent.com/106452102/217944875-73923906-628d-4794-b575-6e185dc8e8f5.jpg" width="100%" alt="Axon"/>
+            <img src="https://user-images.githubusercontent.com/106452102/217944875-73923906-628d-4794-b575-6e185dc8e8f5.jpg" width="100%" alt="Day Trading Horror"/>
         </a>
         <br />
         <p align="center">
 
 
-  <a href="https://github.com/GqCodes/axon-landing-page" target="_blank">
+  <a href="https://github.com/GqCodes/DayTradingHorrors" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://gqcodes.github.io/axon-landing-page/" target="_blank">
+  <a href="https://www.daytradinghorrors.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic"/>
   </a>
       </p>
-        <p><strong>HTML / CSS / JavaScript Landing Page</strong> - Highlights: Bem CSS, flexbox, grid, custom mobile menu, animations, swiper js, custom media queries.</p>
+        <p><strong>Frontend Next JS / Backend Contentful Blog Webiste</strong> - Highlights: React JS Framework (Next JS), Contentful CMS, API, SASS, CSS Animations, Media Queries.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Axon Investment Group</h3>
