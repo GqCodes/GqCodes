@@ -1,4 +1,7 @@
-<!-- ![](https://i.ibb.co/1X1XWRB/cover.png) -->
+<div id="" align="center">
+  <img src="https://user-images.githubusercontent.com/106452102/219389847-4fa85870-52f5-41f0-80cf-785eb67c3f14.png" width="100%"/>
+</div>
+
 
 Hi 👋 I'm Chris
 ======================
